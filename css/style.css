@@ -1,0 +1,67 @@
+#navbar {
+  background-color: rgb(2, 42, 102);
+  overflow: hidden;
+}
+#insideNav {
+  float: left;
+  width: 100%;
+  position: relative;
+}
+#navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  left: 50%;
+  float: left;
+}
+
+#navbar ul li {
+  float: left;
+  position: relative;
+  right: 50%;
+  display: block;
+}
+
+#navbar ul li a {
+  display: block;
+  padding: 40px 30px;
+  color: #ffffff;
+  text-decoration: none;
+  background-color: rgb(2, 42, 102);
+  font-size: larger;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#navbar ul li a:hover {
+  background-color: rgba(37, 88, 165, 0.555);
+  color: rgb(0, 0, 0);
+}
+
+body {
+  text-align: center;
+}
+
+
+
+section{
+  border: black;
+}
+
+#welcome h1{
+  font-size: larger;
+  font-weight: 900;
+  color: black;  
+}
+
+#welcome p {
+  font: 400;
+  font-weight: 400;
+  color: black;
+}
+
+#welcome strong {
+  font: 400;
+  font-weight: 700;
+  color: black;
+}
