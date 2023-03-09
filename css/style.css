@@ -3,12 +3,12 @@
 */
 @font-face {
   font-family: SpecialElite;
-  src: url(../SpecialElite.ttf);
+  src: url(../fonts/SpecialElite.ttf);
 }
 
 @font-face {
   font-family: Crucifixion;
-  src: url(../Crucifixion-Regular.ttf);
+  src: url(../fonts/Crucifixion-Regular.ttf);
 }
 
 #navbar {
