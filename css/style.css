@@ -332,6 +332,7 @@ p {
 }
 
 #media h3 {
+  float: left;
   padding: 10px;
   font-size: 25px;
   font-weight: 500;
