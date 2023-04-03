@@ -92,7 +92,7 @@ p {
 }
 
 #aboutMe h2 {
-  float: left;
+  float: none;
   padding: 10px 10px;
   font-size: 3vmin;
   font-weight: 900;
@@ -119,7 +119,7 @@ p {
 }
 
 #hobbies ul li{
-  float: left;
+  float: right;
   border: 3px #000000;
   display: block;
   padding: 4px 5px;
@@ -130,7 +130,7 @@ p {
 }
 
 #myDog h3 {
-  float: none;
+  float: left;
   padding: 10px 10px;
   font-size: 3.5vmin;
   font-weight: 900;
