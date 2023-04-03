@@ -324,6 +324,7 @@ p {
 }
 
 #media p {
+  float: right;
   padding: 10px;
   font-size: 20px;
   font-weight: 500;
