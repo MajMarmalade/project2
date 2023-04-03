@@ -67,6 +67,7 @@ section{
 }
 
 p { 
+  float: none;
   padding: 10px 10px;
   font-size: 2vmin;
   font: 400;
