@@ -120,7 +120,7 @@ p {
 }
 
 #hobbies ul li{
-  float: right;
+  float: none;
   border: 3px #000000;
   display: block;
   padding: 4px 5px;
